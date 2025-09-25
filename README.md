@@ -22,7 +22,6 @@ The main goal of this project is to study WW production events in CMS data and u
    - Experiment with different combinations of cuts to study their effect on event selection.  
 
 4. **Generate plots and distributions**  
-   - Visualize variables such as transverse momentum, invariant mass, and missing energy.  
    - Compare distributions before and after applying selection cuts to evaluate the effectiveness of the analysis.  
 
 ## Conclusion
